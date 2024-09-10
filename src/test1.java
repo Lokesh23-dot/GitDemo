@@ -96,6 +96,10 @@ public class test1 {
 	}
 	
 	
+	public void demochange()
+	{
+		System.out.println("firstchange after cloning");
+	}
 	
 
 }
