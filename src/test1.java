@@ -99,6 +99,14 @@ public class test1 {
 	public void demochange()
 	{
 		System.out.println("firstchange after cloning");
+		System.out.println("second change");
+		System.out.println("third change");	
+	}
+	
+	public void test()
+	{
+		System.out.println("automation");
+		
 	}
 	
 
