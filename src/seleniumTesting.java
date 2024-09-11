@@ -13,5 +13,17 @@ public class seleniumTesting {
 	{
 		System.out.println("this is product page");
 	}
+	
+	@Test
+	public void cart()
+	{
+		System.out.println("this is cart page");
+	}
+	
+	@Test
+	public void orders()
+	{
+		System.out.println("this is orders page");
+	}
 
 }

@@ -114,5 +114,11 @@ public class test1 {
 		System.out.println("Appium Testing");
 	}
 	
+	@Test
+	public void NoDemoAPITesting()
+	{
+		System.out.println("Api Testing");
+	}
+	
 
 }
