@@ -106,7 +106,12 @@ public class test1 {
 	public void test()
 	{
 		System.out.println("automation");
-		
+	}
+	
+	@Test
+	public void demoMobileTesting()
+	{
+		System.out.println("Appium Testing");
 	}
 	
 
